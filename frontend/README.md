@@ -1,4 +1,4 @@
-# LayerX React.js Boilerplate Project
+# LayerX React.js Boilerplate Project Test
 
 ## Stack 
 
